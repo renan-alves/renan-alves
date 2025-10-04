@@ -4,9 +4,10 @@
 
 - 🏙 I’m currently working in the leading beauty-tech company in Brazil. [B4A](https://b4a.com.br/)
 
-- 🆘 I mainly contribute to the development of the websites [Glambox](https://glambox.com.br/) and [Men's Market](https://mensmarket.com.br/)
+- 🆘 I mainly contribute to the development of the websites [glam](https://glam.com.br/) and [Men's Market](https://mensmarket.com.br/)
 
 - 👨‍🎓 Bachelor's degree in information systems (FIAP)
+- 👨‍🎓 Postgraduate degree in AI for developers
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
