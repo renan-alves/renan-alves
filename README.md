@@ -7,7 +7,7 @@
 - 🆘 I mainly contribute to the development of the websites [glam](https://glam.com.br/) and [Men's Market](https://mensmarket.com.br/)
 
 - 👨‍🎓 Bachelor's degree in information systems (FIAP)
-- 👨‍🎓 Postgraduate degree in AI for developers
+- 👨‍🎓 Postgraduate degree in AI for developers (FIAP/Alura/PM3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
